@@ -4,3 +4,5 @@ This is a youtube clone made with html and css. All the css files of clone are p
 #How to use
 
 First you have to clone this repository in to your system. this works same for different OS wether linux , windows or mac
+
+clone https://github.com/Asad-channar/Youtube-clone.git
